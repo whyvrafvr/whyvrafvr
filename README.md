@@ -4,6 +4,8 @@ Hi there.
 
 I'm working on web3 projects and sometimes, yep, I like to help on web2 projects 😄
 
+👉 You should visit these repos : [TRENDev](https://github.com/trendev) | [fairhive-labs](https://github.com/fairhive-labs)
+
 ## Support enterprises and startups facing troubles in scaling :
 - high resilience, 
 - data consistency and availability at scale.
