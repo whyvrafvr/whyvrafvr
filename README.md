@@ -1,16 +1,23 @@
-### Hi there 👋
+## CTO leading by example | Sr. FullStack Dev | Solution Architect | web3 & blockchain 🔺
 
-<!--
-**juliensie/juliensie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there.
 
-Here are some ideas to get you started:
+I'm working on web3 projects and sometimes, yep, I like to help on web2 projects 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Support enterprises and startups facing troubles in scaling :
+- high resilience, 
+- data consistency and availability at scale.
+
+## Build cloud solutions designing and implementing devops strategy based on innovative technologies:
+- Ansible, Terraform, CircleCI, Travis, Jenkins…
+- GitHub, Bitbucket, GitLab…
+- Rest API, gRPC...
+- AWS, OVH, GCP
+- Docker, Docker Swarm et Kubernetes
+- Java, JavaEE/JakartaEE, Eclipse MicroProfile
+- javascript/typescript, NodeJS
+- Go 💙
+- Solidity 💎
+- Kafka
+- AngularJS, Angular ♥️, NativeScript, React
+- Stripe
