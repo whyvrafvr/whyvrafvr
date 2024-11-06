@@ -25,7 +25,7 @@ I'm working on web2 and web3 projects 😄
 - Docker, Docker Swarm et Kubernetes 💠
 - Java, JavaEE/JakartaEE, Eclipse MicroProfile 🆒
 - javascript/typescript, NodeJS 👍
-- Go 💙
+- Python 🐍, Go 💙
 - Solidity 💎
 - Kafka 🔖
 - AngularJS, Angular ❤️, NativeScript, React
