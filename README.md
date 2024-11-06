@@ -2,7 +2,7 @@
 
 Hi there.
 
-I'm working on web2 and web3 projects 😄
+I'm working on web2 and web3 project. For more information, please visit [TRENDev Consulting](http://www.trendev.fr) and [PoLN](https://poln.org) 😄
 
 ----
 
