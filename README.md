@@ -1,8 +1,8 @@
-## CTO leading by example | Sr. FullStack Dev | Solution Architect | web3 & blockchain 🔺
+## CTO leading by example | Sr. FullStack Dev | Enterprise Architect | web3 & blockchain 🔺 | AI 🤖
 
 Hi there.
 
-I'm working on web2 and web3 project. For more information, please visit [TRENDev Consulting](http://www.trendev.fr) and [PoLN](https://poln.org) 😄
+I'm working on web2/3 project. For more information, please visit [TRENDev Consulting](https://www.trendev.fr) and [PoLN](https://poln.org) 😄
 
 ----
 
